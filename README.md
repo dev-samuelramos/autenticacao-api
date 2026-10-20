@@ -119,4 +119,4 @@ Os testes de integração usam um banco PostgreSQL isolado, criado automaticamen
 ## Autor
 
 **Samuel Ramos** — Estudante de Análise e Desenvolvimento de Sistemas
-[LinkedIn](www.linkedin.com/in/samuelramos94) · [GitHub](https://github.com/dev-samuelramos)
+[LinkedIn](https://www.linkedin.com/in/samuelramos94/?isSelfProfile=true) · [GitHub](https://github.com/dev-samuelramos)
